@@ -44,10 +44,10 @@
     export default {
         data() {
             return {
-                name: "dsa",
-                email: "dsa@dsa.hu",
-                subject: "asd",
-                message: "asdfsadfsd",
+                name: "Demo Dénes",
+                email: "demo.denes@gmail.com",
+                subject: "Teszt üzenet",
+                message: "Lorem ipsum dolor et samet.",
                 success: null
             };
         },
